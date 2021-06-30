@@ -28,8 +28,10 @@
   "dependencies": {
     "custom-functions-metadata": "^1.1.0",
     "es6-promise": "^4.2.8",
-    "loader-utils": "^2.0.0",
-    "webpack": "^5.24.4"
+    "loader-utils": "^2.0.0"
+  },
+  "peerDependencies": {
+    "webpack": "*"
   },
   "devDependencies": {
     "@types/loader-utils": "^2.0.2",
